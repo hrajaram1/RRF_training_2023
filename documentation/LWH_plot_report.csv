@@ -1,0 +1,31 @@
+This report was created by the Stata command iesave (version 7.2). Read more about this command and the purpose of this report on https://dimewiki.worldbank.org/iesave
+
+Number of observations:,2404
+Number of variables:,15
+ID variable(s):,plot ID_05
+.dta version used:,14
+Data signature:,2404:15(99180):776805459:2087333715
+Last saved by:,User info withheld, see option userinfo in command iesave.
+Last saved at:,09:02:35 29 Sep 2023
+
+Variable type: Continuous
+Name,Label,Type,Complete obs,Mean,Std Dev,p0,p25,p50,p75,p100
+A_CROP_OTHER,"",byte,130, 68.9, 22.57, 25, 80, 80, 81, 81
+CRP08QA,"",float,1664, 2545, 57594, 0, 15, 50, 100, 1995000
+CRP09QA,"",float,1569, 58.15, 282.9, 0, 0, 0, 30, 6800
+CRP10A,"",long,568, 36712, 64800, 51, 7500, 17750, 40000, 816000
+ID_03,"Enumerator",int,2404, 125.9, 97.72, 1, 27, 62, 222, 250
+ID_05,"HH Code",int,2404, 3711, 1373, 1001, 3241, 3583, 4169, 7125
+
+Variable type: Categorical
+Name,Label,Value label,Complete obs,Number of levels,Number of unlabeled levels,Top count
+A_CROP,"",crops,1664,17,0,Dry Beans:1086 Sorghum:228 Maize:97 Irish Potatoes:77 Soybeans:65
+CRP08UA,"",crp08ua,1569,10,0,kg:1422 100 Kg sack:59 Mironko (1.5 kg):46 10 kg basket: 10 kg Agatebo:12 15 kg basket: 15 kg Agatebo:9
+CRP09UA,"",crp09ua,568,9,0,kg:503 100 Kg sack:27 Mironko (1.5 kg):17 tons:5 25 Kg sack:4
+ID_06,"Village",ID_06_en,2404,126,0,Nyarunazi:170 Kibabara:114 Ndinda:108 Bitega (Murehe):106 Ruvomu (Murehe ):102
+ID_07,"Cell",ID_07_en,2404,26,0,Ntunga:468 Murama:384 Murehe:376 Kagezi:226 Musumba:170
+ID_08,"Sector",ID_08_en,2404,9,0,Mwulire:644 Nzige:504 Muyumbu:430 Gahengeri:308 Kabare:174
+ID_09,"District",ID_09_en,2404,2,0,Rwamagana:2044 Kayonza:360
+ID_10,"Site (Pre-filled from baseline survey)",ID_10_en,2404,6,0,Rwamagana-35:1230 Rwamagana-34:466 Kayonza-15:200 Rwamagana-2:180 Rwamagana-33:172
+plot,"LAB_position",plot,2404,2,0,Plot 1:1202 Plot 2:1202
+

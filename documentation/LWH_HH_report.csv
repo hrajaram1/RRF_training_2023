@@ -1,0 +1,31 @@
+This report was created by the Stata command iesave (version 7.2). Read more about this command and the purpose of this report on https://dimewiki.worldbank.org/iesave
+
+Number of observations:,1202
+Number of variables:,15
+ID variable(s):,ID_05
+.dta version used:,14
+Data signature:,1202:15(72134):2756327666:1420754319
+Last saved by:,User info withheld, see option userinfo in command iesave.
+Last saved at:,09:02:15 29 Sep 2023
+
+Variable type: Continuous
+Name,Label,Type,Complete obs,Mean,Std Dev,p0,p25,p50,p75,p100
+ID_03,"Enumerator",int,1202, 125.9, 97.74, 1, 27, 62, 222, 250
+ID_05,"HH Code",int,1202, 3711, 1373, 1001, 3241, 3583, 4169, 7125
+INC_01,"INC_01: On-farm enterprise (RWF)",long,1199, 49782, 157214, 0, 0, 0, 40000, 3080000
+INC_02,"INC_02: Non-farm enterprise (RWF)",long,1199, 59244, 373991, 0, 0, 0, 25000, 1.12e+07
+INC_03,"INC_03: renting land (RWF)",long,1201, 2068, 18696, 0, 0, 0, 0, 500000
+INC_04,"INC_04: selling land (RWF)",long,1201, 23026, 228706, 0, 0, 0, 0, 6000000
+INC_06,"INC_06: interests & dividends (RWF)",long,1201, 4943, 29656, 0, 0, 0, 0, 600000
+INC_10,"INC_10: renting agricultural equipment (RWF)",long,1202, 349.4, 8985, 0, 0, 0, 0, 300000
+INC_11,"INC_11: Selling harvest of Season A 2013 (RWF)",long,1196, 64187, 375435, 0, 0, 5000, 45000, 1.12e+07
+INC_12,"INC_12: Terracing for LWH (RWF)",long,1200, 50347, 135280, 0, 0, 0, 60000, 3500000
+
+Variable type: Categorical
+Name,Label,Value label,Complete obs,Number of levels,Number of unlabeled levels,Top count
+ID_06,"Village",ID_06_en,1202,126,0,Nyarunazi:85 Kibabara:57 Ndinda:54 Bitega (Murehe):53 Ruvomu (Murehe ):51
+ID_07,"Cell",ID_07_en,1202,26,0,Ntunga:234 Murama:192 Murehe:188 Kagezi:113 Musumba:85
+ID_08,"Sector",ID_08_en,1202,9,0,Mwulire:322 Nzige:252 Muyumbu:215 Gahengeri:154 Kabare:87
+ID_09,"District",ID_09_en,1202,2,0,Rwamagana:1022 Kayonza:180
+ID_10,"Site (Pre-filled from baseline survey)",ID_10_en,1202,6,0,Rwamagana-35:615 Rwamagana-34:233 Kayonza-15:100 Rwamagana-2:90 Rwamagana-33:86
+

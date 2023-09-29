@@ -1,0 +1,26 @@
+This report was created by the Stata command iesave (version 7.2). Read more about this command and the purpose of this report on https://dimewiki.worldbank.org/iesave
+
+Number of observations:,2404
+Number of variables:,10
+ID variable(s):,asset ID_05
+.dta version used:,14
+Data signature:,2404:10(110926):3066651387:2535396229
+Last saved by:,User info withheld, see option userinfo in command iesave.
+Last saved at:,09:02:19 29 Sep 2023
+
+Variable type: Continuous
+Name,Label,Type,Complete obs,Mean,Std Dev,p0,p25,p50,p75,p100
+AA_02,"How many asset was purchased?",long,147, 5797, 29903, 1, 1, 1, 1, 200000
+ID_03,"Enumerator",int,2404, 125.9, 97.72, 1, 27, 62, 222, 250
+ID_05,"HH Code",int,2404, 3711, 1373, 1001, 3241, 3583, 4169, 7125
+
+Variable type: Categorical
+Name,Label,Value label,Complete obs,Number of levels,Number of unlabeled levels,Top count
+AA_01,"Did your hhld purchase asset?",aa_01,2400,2,0,Oya (No):2253 Yego (Yes):147
+ID_06,"Village",ID_06_en,2404,126,0,Nyarunazi:170 Kibabara:114 Ndinda:108 Bitega (Murehe):106 Ruvomu (Murehe ):102
+ID_07,"Cell",ID_07_en,2404,26,0,Ntunga:468 Murama:384 Murehe:376 Kagezi:226 Musumba:170
+ID_08,"Sector",ID_08_en,2404,9,0,Mwulire:644 Nzige:504 Muyumbu:430 Gahengeri:308 Kabare:174
+ID_09,"District",ID_09_en,2404,2,0,Rwamagana:2044 Kayonza:360
+ID_10,"Site (Pre-filled from baseline survey)",ID_10_en,2404,6,0,Rwamagana-35:1230 Rwamagana-34:466 Kayonza-15:200 Rwamagana-2:180 Rwamagana-33:172
+asset,"Asset",asset,2404,2,0,Cow:1202 Sheep:1202
+
